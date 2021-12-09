@@ -1,0 +1,38 @@
+.navbar-brand
+{
+    
+    width: 200px;
+    font-size: 40px;
+}
+
+.container-fluid
+{
+    color: white;        
+    background-color: #09203f;
+}
+a
+{
+    color: white;    
+}
+.service {
+            /* width: inherit;*/
+            height: 60px;
+            border: 1px solid black;
+            font-size: 35px;
+            text-align: center;
+            background-color: #09203f;
+            color: white;
+
+}
+.card:hover
+{
+    box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.8);
+            background-color: #e6ffff;
+            transform: scale(1.03);
+            transition: transform 0.8s;
+}
+.aboutUs
+{
+    background: black;
+    height: 80px;
+}
